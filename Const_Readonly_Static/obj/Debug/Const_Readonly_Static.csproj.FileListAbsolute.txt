@@ -1,0 +1,7 @@
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\bin\Debug\Const_Readonly_Static.exe.config
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\bin\Debug\Const_Readonly_Static.exe
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\bin\Debug\Const_Readonly_Static.pdb
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\obj\Debug\Const_Readonly_Static.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\obj\Debug\Const_Readonly_Static.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\obj\Debug\Const_Readonly_Static.exe
+D:\InterviewS\PREPARING\Const_Readonly_Static\Const_Readonly_Static\obj\Debug\Const_Readonly_Static.pdb
